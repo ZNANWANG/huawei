@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a615138f-2e0a-4e07-a02c-e71f83b6c863" name="Default Changelist" comment="" />
+    <list default="true" id="a615138f-2e0a-4e07-a02c-e71f83b6c863" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Q019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +34,7 @@
   <component name="ProjectId" id="1aLrxrVTfIXJBlO6w0EmI3WSTzn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="F:/Git/bin/git.exe" />
@@ -49,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586525964858</updated>
-      <workItem from="1586525970502" duration="5994000" />
+      <workItem from="1586525970502" duration="8908000" />
     </task>
     <servers />
   </component>
